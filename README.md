@@ -6,3 +6,10 @@ c++
 java
 php
 ruby
+
+Frontend languages :
+Html
+Css
+Angularjs
+Ajax
+
