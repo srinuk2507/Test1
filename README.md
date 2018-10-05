@@ -7,6 +7,12 @@ java
 php
 ruby
 
+Frontend languages :
+Html
+Css
+Angularjs
+Ajax
+
 
 Total we called it as fullstack
 
